@@ -1,4 +1,4 @@
-Read Me
+Read Me (in a Text editor)
 ----Git Setup----
 #To set up a git repository system on the Raspberry Pi follow these steps in the terminal
 #To Install Git
