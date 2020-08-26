@@ -19,3 +19,7 @@ git push  #pushes commited changes to the repository
 git status  #Checks status of uncommited changes
 git checkout <branch name>  #changes to specified branch
 git checkout -b <branch name>   #Creates a new branch
+
+
+#If help is required
+#https://projects.raspberrypi.org/en/projects/getting-started-with-git
