@@ -45,3 +45,4 @@ def main():
 def stop():
     j1.pwm.stop()
     GPIO.cleanup()
+    
