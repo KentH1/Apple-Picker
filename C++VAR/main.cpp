@@ -2,8 +2,6 @@
 #include <wiringPi.h>
 using namespace std;
 
-void exampleInterrupt(void);
-
 class main_joint{
 	private:
 		int pin;

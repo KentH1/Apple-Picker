@@ -1,9 +1,9 @@
+#include <iostream>
+#include <wiringPi.h>
 //SPI ADC
 int adc1 = 8 //CE0
 int adc2 = 9 //MISO
 int adc3 = 10 //MOSI
 int adc4 = 11 //SCLK
 
-
-
-int stepperPINS = [4,17,27,22]
+int stepperPINS = [4,17,27,22];
